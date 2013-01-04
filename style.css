@@ -1,0 +1,12 @@
+﻿/* CHECKBOX STYLE */
+
+.myCheckbox { height: 21px; display: inline-block; }
+.myCheckbox > a { background: url('images/checkbox-bg.png') no-repeat; width: 22px; height: 21px; display: inline-block; vertical-align: middle; }
+.myCheckbox > a.checked { background-position: 0px -21px; }
+.myCheckbox > label { color: #989898; font-size: 12px; height: 21px; line-height: 21px; padding-left: 10px; display: inline-block; vertical-align: middle; }
+.myCheckbox > label a { text-decoration: underline; }
+
+
+/* TEXTBOX */
+.textbox { background: url('images/textbox-bg.png') no-repeat; width: 362px; height: 40px; line-height: 40px; padding: 0px 10px; border: 0 none; font-size: 12px; color: #B1AEAE; }
+
